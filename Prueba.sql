@@ -21,6 +21,8 @@ update animalees set tipo ='pajarillo' where id= 4;
 select * from animalees;
 update animalees set estado='pillo' where id=4;
 select * from animalees;
+delete from animalees  where id= 1;
+select * from animalees;
 
 
 
