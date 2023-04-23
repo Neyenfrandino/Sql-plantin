@@ -23,6 +23,7 @@ update animalees set estado='pillo' where id=4;
 select * from animalees;
 delete from animalees  where id= 1;
 select * from animalees;
+select * from animalees where id > 2 ;
 
 
 
